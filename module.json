@@ -1,13 +1,13 @@
 {
-    "name": "module-cms-content-entities",
-    "package": "liberusoftware/module-cms-content-entities",
-    "version": "0.1.0",
-    "layers": [
-        "core",
-        "api",
-        "filament"
-    ],
-    "service_providers": [
-        "Liberu\\Cms\\ContentTypes\\ContentTypesServiceProvider"
-    ]
+  "name": "module-cms-content-entities",
+  "package": "liberusoftware/module-cms-content-entities",
+  "service_providers": [
+    "Liberu\\Cms\\ContentTypes\\ContentTypesServiceProvider"
+  ],
+  "layers": [
+    "core",
+    "api",
+    "filament"
+  ],
+  "version": "0.1.1"
 }
