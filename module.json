@@ -1,6 +1,6 @@
 {
-  "name": "module-cms-content-entities",
-  "package": "liberusoftware/module-cms-content-entities",
+  "name": "module-cms-content-types",
+  "package": "liberusoftware/module-cms-content-types",
   "service_providers": [
     "Liberu\\Cms\\ContentTypes\\ContentTypesServiceProvider"
   ],

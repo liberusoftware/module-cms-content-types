@@ -21,7 +21,7 @@
       "Liberu\\Cms\\ContentTypes\\Database\\Factories\\": "database/factories/"
     }
   },
-  "name": "liberusoftware/module-cms-content-entities",
+  "name": "liberusoftware/module-cms-content-types",
   "description": "Custom content types for Liberu CMS: JSON field schemas and validated content entries with workflow and versioning.",
   "minimum-stability": "dev",
   "autoload-dev": {
@@ -32,7 +32,7 @@
   "license": "MIT",
   "extra": {
     "liberu": {
-      "name": "module-cms-content-entities"
+      "name": "module-cms-content-types"
     },
     "laravel": {
       "providers": [
